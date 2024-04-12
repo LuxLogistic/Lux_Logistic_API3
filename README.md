@@ -109,15 +109,19 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <div align="center">
 
  ### 1ª - Sprint
- 
+ ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Backlog%20Sprint%2001.png)
 
  ### 2ª - Sprint
-
+ ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Backlog%20Sprint%2002.png)
 
 ### 3ª - Sprint
-
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Backlog%20Sprint%2003.png)
 
 ### 4ª - Sprint
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Backlog%20Sprint%2004.png)
+
+### Backlog
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Backlog.png)
 
 </div>
 
