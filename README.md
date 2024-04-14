@@ -38,8 +38,7 @@ Criar base de dados relacional e Dashboard que permita:
 * (II) criação de um visualizador de indicadores em BI
 
  * (III) aplicação do método de transportes para otimização da distribuição
-
-* 
+ 
 
 
 ## Tecnologias Utilizadas
@@ -97,10 +96,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <div align="center">
  
  ### Requisitos funcionais
- 
+ ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Backlog%20do%20produto%20-%20Funcionais.png)
 
  ### Requisitos não funcionais
-
+ ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Backlog%20do%20produto%20%20-%20N%C3%A3o%20funcionais.png)
  
 </div>
 
