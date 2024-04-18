@@ -130,7 +130,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <details>
 
 <summary> 1ª SPRINT </summary>
- 
+
+![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Bundown%20Sprint%2001_.png?raw=true)
+
 
 </details>
 
@@ -148,25 +150,30 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 </details>
 
+<details>
+ 
+<summary> 4ª SPRINT </summary>
+ 
+
+</details>
+
+
 ## Sprint 1. Concepção
 - [x] Estrutura do backlog;
 - [x] Delimitação de tarefas;
 - [x] Atribuição de responsáveis pelas tarefas;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [x] 
-- [x]   
+- [x] Modelagem dos dados para o problema de transporte   
       
 ## Sprint 3. Implementação
-- [x]
-- [x]
-- [x]  
+- [x] Dashboard BI
+- [x] Aplicação da modelagem em Python
 
       
 ## Sprint 4. Operacionalização
-- [x] 
-- [x] 
-- [x]  
+- [x] Consulta em SQL
+- [x] Integração SQL - BI
 
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
