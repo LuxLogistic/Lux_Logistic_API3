@@ -182,6 +182,35 @@ Confira a seguir uma demonstração das funcionalidades
 
 ### MVP -  Minimum Viable Product - 
 
+<details>
+ 
+<summary> 1ª SPRINT </summary>
+O MVP da primeira sprint pode ser visto no Relátorio da mesma
+
+
+</details>
+
+<details>
+ 
+<summary> 2ª SPRINT </summary>
+ 
+
+</details>
+
+<details>
+ 
+<summary> 3ª SPRINT </summary>
+ 
+
+</details>
+
+<details>
+ 
+<summary> 4ª SPRINT </summary>
+ 
+
+</details>
+
 
 
 
