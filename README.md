@@ -164,7 +164,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Atribuição de responsáveis pelas tarefas;
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [x] Modelagem dos dados para o problema de transporte   
+- [x] Otimização de um mês 
+- [x] Aplicação dos resultados em BI
       
 ## Sprint 3. Implementação
 - [x] Dashboard BI
