@@ -159,12 +159,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Sprint 1. Concepção
-- [x] Estrutura do backlog;
-- [x] Delimitação de tarefas;
-- [x] Atribuição de responsáveis pelas tarefas;
+- [x] Estrutura do backlog
+- [x] Delimitação de tarefas
+- [x] Atribuição de responsáveis pelas tarefas
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [x] Otimização de um mês 
+- [x] Otimização de um único mês da base 
 - [x] Aplicação dos resultados em BI
       
 ## Sprint 3. Implementação
