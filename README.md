@@ -165,7 +165,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [x] Otimização de um único mês da base 
-- [x] Aplicação dos resultados em BI
+- [x] Aplicação da otimização em BI
       
 ## Sprint 3. Implementação
 - [x] Dashboard BI
