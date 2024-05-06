@@ -193,6 +193,8 @@ O MVP da primeira sprint pode ser visto no Relátorio da mesma
 <details>
  
 <summary> 2ª SPRINT </summary>
+
+![Nome do Vídeo]( https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/PBI/MVP%20Sprint%2002.gif)
  
 
 </details>
