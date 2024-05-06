@@ -165,12 +165,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [x] Otimização de um único mês da base 
-- [x] Aplicação da otimização em BI
+- [x] Aplicação da otimização em Dashboard BI
       
 ## Sprint 3. Implementação
-- [x] Dashboard BI
 - [x] Aplicação da modelagem em Python
-
+- [x] Otimização da base completa
       
 ## Sprint 4. Operacionalização
 - [x] Consulta em SQL
