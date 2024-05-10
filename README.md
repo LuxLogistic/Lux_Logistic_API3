@@ -139,7 +139,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <details>
  
 <summary> 2ª SPRINT </summary>
- 
+
+ ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Burndown%20sprint%202.png)
 
 </details>
 
