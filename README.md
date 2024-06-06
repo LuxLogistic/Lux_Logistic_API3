@@ -62,7 +62,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 08/03/2024 | Concluído| [Ver Relatório]() | 
 |Sprint 1| 19/04/2024 | Concluído| [Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLuxLogistic%2FLux_Logistic_API3%2Fmain%2FDocumentos%2FAPI_III_Relatorio_Sprint_01.docx&wdOrigin=BROWSELINK) | 
 |Sprint 2| 10/05/2024|Concluído |[Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLuxLogistic%2FLux_Logistic_API3%2Fmain%2FDocumentos%2FAPI_III_Relatorio_Sprint_02.docx&wdOrigin=BROWSELINK) | 
-|Sprint 3| 07/06/2024 |Em andamento|[Ver Relatório]() | 
+|Sprint 3| 07/06/2024 |Em andamento|[Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLuxLogistic%2FLux_Logistic_API3%2Fmain%2FDocumentos%2FAPI_III_Relatorio_Sprint_03_Atualizado.docx&wdOrigin=BROWSELINK) | 
 |Sprint 4| 21/06/2024 |Em breve |[Ver Relatório]()  | 
 |Feira de Soluções|27/06/2024 |Em breve |[Ver Relatório]() | 
 
