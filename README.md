@@ -208,7 +208,7 @@ O MVP da primeira sprint pode ser visto no Relátorio da mesma
  ![Nome do Vídeo](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/PBI/MVP%20Sprint%2003.gif)
 
 
- ![Nome do Vídeo](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/consulta_api%20(2).gif)
+ ![Nome do Vídeo](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/consulta_api%20(3).gif)
 
 
 </details>
