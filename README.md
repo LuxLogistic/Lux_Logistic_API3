@@ -147,7 +147,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 <details>
  
 <summary> 3ª SPRINT </summary>
- 
+
+  ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Burndown%20Sprint%203.png)
 
 </details>
 
@@ -204,7 +205,11 @@ O MVP da primeira sprint pode ser visto no Relátorio da mesma
  
 <summary> 3ª SPRINT </summary>
 
- ![Nome do Vídeo]( https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/PBI/MVP%20Sprint%2003.gif)
+ ![Nome do Vídeo](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/PBI/MVP%20Sprint%2003.gif)
+
+
+ ![Nome do Vídeo](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/consulta_api%20(2).gif)
+
 
 </details>
 
