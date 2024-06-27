@@ -156,6 +156,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  
 <summary> 4ª SPRINT </summary>
  
+ ![sprint backlog](https://github.com/LuxLogistic/Lux_Logistic_API3/blob/main/Documentos/Jira%20Software/Burndown%20Sprintt%2004.png)
 
 </details>
 
